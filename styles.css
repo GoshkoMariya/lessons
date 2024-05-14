@@ -1,0 +1,23 @@
+body {
+    background-color:  #862d86;
+    display: flex;
+    justifu-content: center;
+    algin-items: center;
+    flex-direction: column;
+}
+
+header {
+    text-algin: center;
+    color: white;
+    font-family: Arial;
+    background-image: url(https://images.prom.ua/3637899062_w700_h500_fon-dlya-predmetnoj.jpg);
+    background-size: 100%;
+}
+
+section {
+    text-algin: center;
+}
+
+footer {
+    text-algin: center;
+}
